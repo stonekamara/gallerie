@@ -1,0 +1,14 @@
+node_modules
+.env
+dist
+.vite
+.tanstack
+.nitro
+.output
+*.local
+.wrangler
+.vercel
+
+# Secrets / artefacts locaux
+.env*
+supabase/.temp/
